@@ -28,4 +28,22 @@ while True:
 # print(f" You answered {want_instructions} to the question ")
 
 
-# got to video (03 yes no part 2), timestamp 0:45
+# got to video (07), timestamp 0:45\
+
+
+
+
+#elif want_instructions == "no" or want_instructions == "n":
+    #print("you chose no")
+#elif want_instructions == "ya":
+    #print("you chose yes")
+#elif want_instructions == "non":
+    #print("you chose no")
+#elif want_instructions == "stop":
+    #print("you chose us to stop ok :(")
+#elif want_instructions == "why":
+    #print("we were just trying to help what do you mean why >:( 😠")
+#elif want_instructions == "ok":
+    #print("ok ok ok ok ok ok ok")
+#elif want_instructions == "maybe":
+    #print("what if you just answer the question right YES OR NO")
